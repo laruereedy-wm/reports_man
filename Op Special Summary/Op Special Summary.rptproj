@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>PKI.rds</Name>
+      <FullPath>PKI.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets />
+  <Reports>
+    <ProjectItem>
+      <Name>1104 Op Special Summary By Doorstyles.rdl</Name>
+      <FullPath>1104 Op Special Summary By Doorstyles.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Cabinet Level Op Detail Rpt by Op Date.rdl</Name>
+      <FullPath>Cabinet Level Op Detail Rpt by Op Date.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Cabinet Level Op Detail Rpt by Op Date-No Subreports.rdl</Name>
+      <FullPath>Cabinet Level Op Detail Rpt by Op Date-No Subreports.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy (2) of lastWorkCenterSR.rdl</Name>
+      <FullPath>Copy (2) of lastWorkCenterSR.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy (2) of opHistorySR.rdl</Name>
+      <FullPath>Copy (2) of opHistorySR.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>lastWorkCenterSR.rdl</Name>
+      <FullPath>lastWorkCenterSR.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>OP All Orders Workcenter Select Summary.rdl</Name>
+      <FullPath>OP All Orders Workcenter Select Summary.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Op Special Detail Moulder.rdl</Name>
+      <FullPath>Op Special Detail Moulder.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>OP Special Detail w-labor-ops hist.rdl</Name>
+      <FullPath>OP Special Detail w-labor-ops hist.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Op Special Detail.rdl</Name>
+      <FullPath>Op Special Detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Op Special Summary Available.rdl</Name>
+      <FullPath>Op Special Summary Available.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Op Special Summary.rdl</Name>
+      <FullPath>Op Special Summary.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Op Special Summary3.rdl</Name>
+      <FullPath>Op Special Summary3.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>opHistorySR.rdl</Name>
+      <FullPath>opHistorySR.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Rough Mill Specials.rdl</Name>
+      <FullPath>Rough Mill Specials.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Op Special Detail Solid Stock.rdl</Name>
+      <FullPath>Op Special Detail Solid Stock.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetServerURL>http://wmreports16/reportserver</TargetServerURL>
+        <TargetFolder>Manufacturing_Reports/_Testing/Op Special Summary</TargetFolder>
+        <TargetDataSourceFolder>Manufacturing_Reports/_Testing/_DataSource</TargetDataSourceFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>Op Special Summary</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetServerURL>http://wmreports16/reportserver</TargetServerURL>
+        <TargetFolder>Manufacturing_Reports/Op Special Summary</TargetFolder>
+        <TargetDataSourceFolder>Manufacturing_Reports/_DataSource</TargetDataSourceFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>

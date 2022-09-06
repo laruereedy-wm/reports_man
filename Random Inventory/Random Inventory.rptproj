@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>RIL.rds</Name>
+      <FullPath>RIL.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets />
+  <Reports>
+    <ProjectItem>
+      <Name>In Stock by Date and Planner.rdl</Name>
+      <FullPath>In Stock by Date and Planner.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Inventory Report by Planner - Detail.rdl</Name>
+      <FullPath>Inventory Report by Planner - Detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Inventory Report by Planner - Summary.rdl</Name>
+      <FullPath>Inventory Report by Planner - Summary.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Inventory Report by Planner Effective Date - Detail.rdl</Name>
+      <FullPath>Inventory Report by Planner Effective Date - Detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Items By Date.rdl</Name>
+      <FullPath>Items By Date.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Planner Usage History.rdl</Name>
+      <FullPath>Planner Usage History.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Rack Status Report - Empty Locations.rdl</Name>
+      <FullPath>Rack Status Report - Empty Locations.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Rack Status Report.rdl</Name>
+      <FullPath>Rack Status Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Transaction History - By Item.rdl</Name>
+      <FullPath>Transaction History - By Item.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Transaction History - By Pallet.rdl</Name>
+      <FullPath>Transaction History - By Pallet.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Usage by Date and Planner.rdl</Name>
+      <FullPath>Usage by Date and Planner.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>WIP Stockroom Activity Report.rdl</Name>
+      <FullPath>WIP Stockroom Activity Report.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetServerURL>http://wmreports16/reportserver</TargetServerURL>
+        <TargetFolder>Manufacturing_Reports/_Testing/Random Inventory</TargetFolder>
+        <TargetDataSourceFolder>Manufacturing_Reports/_Testing/_DataSource</TargetDataSourceFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>Random Inventory</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetServerURL>http://wmreports16/reportserver</TargetServerURL>
+        <TargetFolder>Manufacturing_Reports/Random Inventory</TargetFolder>
+        <TargetDataSourceFolder>Manufacturing_Reports/_DataSource</TargetDataSourceFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Inventory", "Inventory.rptproj", "{6F478708-0CDC-4020-846A-101404F43395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F478708-0CDC-4020-846A-101404F43395}.Debug|Default.ActiveCfg = Debug
+		{6F478708-0CDC-4020-846A-101404F43395}.Debug|Default.Build.0 = DebugLocal
+		{6F478708-0CDC-4020-846A-101404F43395}.Debug|Default.Deploy.0 = DebugLocal
+		{6F478708-0CDC-4020-846A-101404F43395}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{6F478708-0CDC-4020-846A-101404F43395}.DebugLocal|Default.Build.0 = DebugLocal
+		{6F478708-0CDC-4020-846A-101404F43395}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{6F478708-0CDC-4020-846A-101404F43395}.Release|Default.ActiveCfg = Release
+		{6F478708-0CDC-4020-846A-101404F43395}.Release|Default.Build.0 = Release
+		{6F478708-0CDC-4020-846A-101404F43395}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
